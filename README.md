@@ -13,3 +13,15 @@ https://guides.github.com/activities/hello-world/
 https://www.guru99.com/mvc-tutorial.html
 
 https://auth0.com/blog/image-processing-in-python-with-pillow/
+
+https://kapernikov.com/tutorial-image-classification-with-scikit-learn/
+
+http://www.realtechsupport.org/UB/I2C/tutorials/svm_biomedicine.pdf
+
+https://www.youtube.com/watch?v=ivPoCcYfFAw
+
+https://www.bloopanimation.com/animation-for-beginners/
+
+https://rustyanimator.com/animation-for-beginners/
+
+
