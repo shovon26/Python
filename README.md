@@ -24,4 +24,8 @@ https://www.bloopanimation.com/animation-for-beginners/
 
 https://rustyanimator.com/animation-for-beginners/
 
+https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5982143/?fbclid=IwAR2777SqbjRejSVRTVZnnSt0nP1pkWoqvI2RXq29G1VYNeZrnsyOKquGFgc
+
+https://www.youtube.com/watch?v=10joRJt39Ns
