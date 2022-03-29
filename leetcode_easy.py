@@ -1,5 +1,6 @@
-<a href = "https://leetcode.com/contest/weekly-contest-286/problems/find-the-difference-of-two-arrays/"> Link of the problem </a>
-<h3> Code : </h3>
+Link : https://leetcode.com/contest/weekly-contest-286/problems/find-the-difference-of-two-arrays/
+Code : 
+    
 class Solution(object):
     def findDifference(self, nums1, nums2):
         """
